@@ -12,9 +12,12 @@
 
 ---
 
-### 👋 Introduction
+### 🌱 About Me
 
-I'm a Computer Science & Engineering student focused on building practical, AI-driven software and exploring graph-based deep learning research. Currently building **JobNai**, an AI-powered job matching and career assistant platform for job seekers in Bangladesh.
+- 🔍 Passionate about taking on new challenges and solving algorithmic and real-life problems.
+- 🌱 Exploring programming, AI & ML, web development, and modern backend technologies.
+- 🤝 I want to collaborate with people who are interested in solving real-life problems through projects.
+- 📫 Reach me at: [anwoypaul2001@gmail.com](mailto:anwoypaul2001@gmail.com)
 
 ### 🎓 Education / Current Focus
 
@@ -23,19 +26,26 @@ I'm a Computer Science & Engineering student focused on building practical, AI-d
 - 🗓️ Expected Graduation: **January 2027**
 - 💼 Starting an internship next semester
 
-### 💻 Tech Stack
+### 💻 Skills & Technologies
+
+- **Languages:** C++, Python, C#, HTML, CSS
+- **Frameworks:** Django
+- **Databases:** MySQL
+- **Core CS:** Data Structures, Algorithms, Problem Solving
+- **Tools:** Git, GitHub, VS Code
+
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" height="50" alt="C#" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" /></a>
 </p>
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
@@ -46,11 +56,7 @@ I'm a Computer Science & Engineering student focused on building practical, AI-d
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnwoyPaul&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwoyPaul&layout=compact&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnwoyPaul&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AnwoyPaul&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 🏆 Achievements
@@ -70,6 +76,14 @@ I'm a Computer Science & Engineering student focused on building practical, AI-d
 - Graph Attention Networks (GAT)
 - Graph Neural Networks (GNN)
 - Transformers
+
+### ⚡ Fun Facts
+
+- 🎬 I love watching anime.
+- 📚 I enjoy reading manga and manhua.
+- 🏏 I like playing cricket.
+- 🐦 I really love birds and nature.
+- 😅 I'm usually pretty lazy, but once I start a project, I get so focused that I forget to eat or sleep.
 
 ### 📫 Contact
 
