@@ -82,7 +82,7 @@
 ### 📄 Research
 
 - **[Spatiotemporal Mixed-Traffic Crash Risk Prediction in Dhaka (GAT + BiLSTM)](https://github.com/AnwoyPaul/dhaka-spatiotemporal-mixed-traffic-crash-risk-gat-bilstm)**
-  Research project applying Graph Attention Networks (GAT) and BiLSTM to model and predict crash risk under Dhaka's mixed-traffic conditions.
+  Research project applying Graph Attention Networks (GAT) and BiLSTM to model and predict Real Time crash risk under Dhaka's mixed-traffic conditions.
 
 ### ⚡ Fun Facts
 
