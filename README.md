@@ -76,6 +76,13 @@
 - Graph Attention Networks (GAT)
 - Graph Neural Networks (GNN)
 - Transformers
+- Computer Vision
+- BiLSTM
+
+### 📄 Research
+
+- **[Spatiotemporal Mixed-Traffic Crash Risk Prediction in Dhaka (GAT + BiLSTM)](https://github.com/AnwoyPaul/dhaka-spatiotemporal-mixed-traffic-crash-risk-gat-bilstm)**
+  Research project applying Graph Attention Networks (GAT) and BiLSTM to model and predict crash risk under Dhaka's mixed-traffic conditions.
 
 ### ⚡ Fun Facts
 
