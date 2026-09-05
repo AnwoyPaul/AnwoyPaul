@@ -49,7 +49,11 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| 🧭 **JobNai** | AI-powered job matching & career assistant platform for Bangladeshi job seekers *(in progress — details coming soon)* | React, ASP.NET Core, PostgreSQL, Llama (Ollama) | _coming soon_ |
+| 🧭 **JobNai** | AI-powered job matching & career assistant for Bangladeshi job seekers — final year project for CSC 470 (Software Engineering Lab), IUBAT | React, Tailwind CSS, ASP.NET Core, PostgreSQL, EF Core, Ollama (Llama 3.2) | [GitHub](https://github.com/AnwoyPaul/JobNai---AI-Powered-Career-Assistance-) |
+
+**JobNai** — a full-stack platform that uses a locally-hosted LLM (Ollama running Llama 3.2) to read a candidate's resume, extract structured data (skills, education, experience, projects, achievements), and compare it against real job postings. It surfaces a transparent match percentage computed deterministically from skill overlap, a skill-gap breakdown, and AI-generated learning suggestions. Beyond matching, it generates tailored cover letters (with edit instructions) and interview-prep questions for a specific posting, and includes a floating AI chatbot for platform help.
+
+The backend is built with ASP.NET Core (.NET 9) in a layered Domain/Application/Infrastructure/API architecture, using PostgreSQL with EF Core and ASP.NET Core Identity + JWT for auth. The frontend is React (Vite) with Tailwind CSS. Employers can create, publish, and manage job postings and review applicants with status tracking, while Admins get platform-wide analytics and moderation tools. Built by a team using an incremental Agile process across seven phases, from authentication through to the AI help chatbot.
 
 > More projects coming soon.
 
@@ -82,7 +86,7 @@
 ### 📄 Research
 
 - **[Spatiotemporal Mixed-Traffic Crash Risk Prediction in Dhaka (GAT + BiLSTM)](https://github.com/AnwoyPaul/dhaka-spatiotemporal-mixed-traffic-crash-risk-gat-bilstm)**
-  Research project applying Graph Attention Networks (GAT) and BiLSTM to model and predict Real Time crash risk under Dhaka's mixed-traffic conditions.
+  Research project applying Graph Attention Networks (GAT) and BiLSTM to model and predict crash risk under Dhaka's mixed-traffic conditions.
 
 ### ⚡ Fun Facts
 
