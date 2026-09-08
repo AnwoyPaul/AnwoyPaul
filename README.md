@@ -50,6 +50,8 @@
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
 | 🧭 **JobNai** | AI-powered job matching & career assistant for Bangladeshi job seekers — final year project for CSC 470 (Software Engineering Lab), IUBAT | React, Tailwind CSS, ASP.NET Core, PostgreSQL, EF Core, Ollama (Llama 3.2) | [GitHub](https://github.com/AnwoyPaul/JobNai---AI-Powered-Career-Assistance-) |
+| ⚽ **Football Match Prediction** | Predicts Premier League match outcomes using historical match data, engineered features, and a Random Forest classifier | Python, pandas, scikit-learn | [GitHub](https://github.com/AnwoyPaul/Football-Match-Prediction) |
+| 🛒 **Grocery Shop** | Full-stack online grocery store with customer shopping (cart, wishlist, checkout, order history) and an admin panel for products, orders, and users | PHP, MySQL, PDO, HTML/CSS/JS | [GitHub](https://github.com/AnwoyPaul/grocery-shop) |
 
 **JobNai** — a full-stack platform that uses a locally-hosted LLM (Ollama running Llama 3.2) to read a candidate's resume, extract structured data (skills, education, experience, projects, achievements), and compare it against real job postings. It surfaces a transparent match percentage computed deterministically from skill overlap, a skill-gap breakdown, and AI-generated learning suggestions. Beyond matching, it generates tailored cover letters (with edit instructions) and interview-prep questions for a specific posting, and includes a floating AI chatbot for platform help.
 
