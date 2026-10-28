@@ -40,6 +40,7 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" /></a>
+    <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" /></a>
