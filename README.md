@@ -28,8 +28,8 @@
 
 ### 💻 Skills & Technologies
 
-- **Languages:** C++, Python, C#, HTML, CSS
-- **Frameworks:** Django
+- **Languages:** C++, Python, C#, PHP, HTML, CSS
+- **Frameworks:** Django, laravel
 - **Databases:** MySQL
 - **Core CS:** Data Structures, Algorithms, Problem Solving
 - **Tools:** Git, GitHub, VS Code
